@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { FriendListItem } from './Friend';
+import { FriendListItem } from './FriendItem';
 export const FriendList = ({ friends }) => {
   return (
     <ul className="friend-list">
