@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vitaliy-kro/goit-react-hw-01-components/static/css/main.ddecfde7.css",
-    "main.js": "/vitaliy-kro/goit-react-hw-01-components/static/js/main.862bc71a.js",
+    "main.js": "/vitaliy-kro/goit-react-hw-01-components/static/js/main.27aa8a9f.js",
     "index.html": "/vitaliy-kro/goit-react-hw-01-components/index.html",
     "main.ddecfde7.css.map": "/vitaliy-kro/goit-react-hw-01-components/static/css/main.ddecfde7.css.map",
-    "main.862bc71a.js.map": "/vitaliy-kro/goit-react-hw-01-components/static/js/main.862bc71a.js.map"
+    "main.27aa8a9f.js.map": "/vitaliy-kro/goit-react-hw-01-components/static/js/main.27aa8a9f.js.map"
   },
   "entrypoints": [
     "static/css/main.ddecfde7.css",
-    "static/js/main.862bc71a.js"
+    "static/js/main.27aa8a9f.js"
   ]
 }
