@@ -2,6 +2,8 @@ export const theme = {
   colors: {
     basicBackground: '#F2F2F2',
     black: '#000000',
+    white: "#fff"
+
     app: {
       basicBackground: '#ffff',
       secondBackground: '#c3c4c3',
